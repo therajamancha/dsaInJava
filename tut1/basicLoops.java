@@ -1,3 +1,4 @@
+package tut1;
 public class basicLoops {
   public static void main(String[] args) {
     int count = 1;

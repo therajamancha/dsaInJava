@@ -1,3 +1,4 @@
+package tut2;
 public class reverceNum {
   public static void main(String[] args) {
     int num = 23597;

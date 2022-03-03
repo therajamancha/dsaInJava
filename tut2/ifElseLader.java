@@ -1,6 +1,4 @@
-/**
- * ifElseLader
- */
+package tut2;
 public class ifElseLader {
   public static void main(String[] args) {
     int salary  = 12000;
